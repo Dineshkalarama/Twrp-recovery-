@@ -1,5 +1,5 @@
 # Android device tree for qti Kona for arm64 (kona)
-
+i love
 ```
 #
 # Copyright (C) 2023 The Android Open Source Project
